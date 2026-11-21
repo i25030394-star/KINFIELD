@@ -1,0 +1,17 @@
+KINFIELD GARDEN STUDIO — ICT2215 ASSESSMENT 2
+
+Open the website
+1. Extract the full submission ZIP.
+2. Open index.html in a modern browser.
+3. Keep styles.css and the assets folder beside index.html.
+
+Included
+- One-page HTML/CSS site with internal navigation and responsive layout.
+- Three service illustrations and an original logo mark, all local SVG artwork.
+- Embedded CC0 flower video streamed from MDN (internet required for playback).
+- Native display-only contact form, design plan, homepage wireframe and media notes.
+
+Important
+- This is a fictional urban gardening studio. Prices and services are examples.
+- The assignment brief requires student-authored website text. Rewrite the included English draft in your own words before submission.
+- See documentation/DESIGN_PLAN.md and documentation/MEDIA_CREDITS.md.
